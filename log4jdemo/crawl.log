@@ -1,0 +1,8 @@
+ERROR	2021-08-02 14:15:28,929	0	com.yash.log4jdemo.LogTesting	[main]	Error incoming
+ERROR	2021-08-02 14:15:47,967	0	com.yash.log4jdemo.LogTesting	[main]	Error incoming
+INFO	2021-08-02 14:16:07,942	0	com.yash.log4jdemo.LogTesting	[main]	.info method used for log
+WARN	2021-08-02 14:16:07,944	2	com.yash.log4jdemo.LogTesting	[main]	Warrning
+ERROR	2021-08-02 14:16:07,944	2	com.yash.log4jdemo.LogTesting	[main]	Error incoming
+INFO	2021-08-02 14:17:18,548	1	com.yash.log4jdemo.LogTesting	[main]	.info method used for log
+WARN	2021-08-02 14:17:18,550	3	com.yash.log4jdemo.LogTesting	[main]	Warrning
+ERROR	2021-08-02 14:17:18,550	3	com.yash.log4jdemo.LogTesting	[main]	Error incoming
